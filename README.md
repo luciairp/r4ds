@@ -22,4 +22,4 @@ devtools::install_github("cienciadedatos/datos")
 ```
 Revisa el código de conducta en el siguiente enlace: https://github.com/cienciadedatos/descripcion-y-orientaciones/issues/1
 
-Acá probando desde luciairp-
+Acá probando desde luciairp
