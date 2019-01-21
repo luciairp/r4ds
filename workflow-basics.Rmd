@@ -84,7 +84,7 @@ nombre_funcion(arg1 = val1, arg2 = val2, ...)
 
 Probemos usar `seq()` que construye **sec**uencias regulares de números y, mientras tanto, aprendemos otras características útiles de RStudio. Escribe `se` y presiona TAB. Una ventana emergente te mostrará opciones para completar tu instrucción. Especifica `seq()` agregando caracteres que permitan desambiguar (agrega una `q`), o usando las flechas ↑/↓. Si necesitas ayuda, presiona F1 para obtener información detallada en la pestaña de ayuda del panel inferior derecho.
 
-Presiona TAB una vez más cuando hayas seleccionado la función que quieras. RStudio colocará por tí paréntesis que abren (`(`) y cierran (`)`) de a pares. Escribe los argumentos `1, 10` y presiona Enter.
+Presiona TAB una vez más cuando hayas seleccionado la función que quieras. RStudio colocará por tí paréntesis de apertura (`(`) y cierre (`)`)  de a pares. Escribe los argumentos `1, 10` y presiona Enter.
 
 ```{r}
 seq(1, 10)
