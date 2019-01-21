@@ -2,7 +2,7 @@
 
 Ya tienes un poco de experiencia ejecutando código R. No te he dado demasiados detalles, pero es evidente que has podido resolver lo básico ¡o ya habrías arrojado lejos este libro en un acceso de frustración! Es natural frustrarte cuando empiezas a programar en R debido a que es muy estricto en cuanto a la puntuación, e incluso un único caracter fuera de lugar provocará que se queje. Así como deberías esperar sentir un poco de frustración, confía en que esta sensación es normal y transitoria: le pasa a todos y la única forma de superarla es seguir intentando.
 
-Antes de avanzar vamos a asegurarnos que tengas una base sólida en ejecutar código R, y que conozcas algunas de las características más útiles de RStudio. 
+Antes de avanzar vamos a asegurarnos de que tengas una base sólida en ejecutar código R, y que conozcas algunas de las características más útiles de RStudio. 
 
 ## Conocimientos básicos de programación
 
