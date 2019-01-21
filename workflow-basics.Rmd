@@ -134,7 +134,7 @@ Allí puedes ver todos los objetos que creaste.
     mi_varıable
     ```
     
-    ¡Mira detenidamente! (Esto puede parecer un ejercicio inútil, pero entrenar tu cerebro para detectar     incluso las diferencias más pequeñas será muy útil cuando comiences a programar.)
+    ¡Mira detenidamente! (Esto puede parecer un ejercicio inútil, pero entrenar tu cerebro para detectar incluso las diferencias más pequeñas será muy útil cuando comiences a programar.)
     
 2.  Modifica cada una de las instrucciones de R a continuación para que puedan ejecutarse correctamente:
 
