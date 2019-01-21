@@ -73,7 +73,7 @@ viva_R
 
 Los mensajes de error señalan que R no encontró entre los objetos definidos ninguno que se llame `viv_r` ni `viva_R`.
 
-Existe un acuerdo implícito entre tú y R: R hará todos los tediosos cálculos por ti, pero a cambio tu debes dar tus instrucciones con total precisión. Cada caracter es importante. Si está en mayúscula o minúscula es importante.
+Existe un acuerdo implícito entre tú y R: R hará todos los tediosos cálculos por ti, pero a cambio tu debes dar las instrucciones con total precisión. Cada caracter es importante. Si está en mayúscula o minúscula es importante.
 
 ## Usando funciones
 
