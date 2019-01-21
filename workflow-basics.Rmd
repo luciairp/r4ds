@@ -14,7 +14,7 @@ Revisemos algunos conocimientos básicos que omitimos hasta ahora para que pudie
 sin(pi / 2)
 ```
 
-donde *sin* calcula por defecto la función trigonométrica *seno*
+donde `sin` calcula por defecto la función trigonométrica *seno*
 
 Puedes crear objetos nuevos usando `<-`:
 
