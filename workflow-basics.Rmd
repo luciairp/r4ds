@@ -148,5 +148,5 @@ Allí puedes ver todos los objetos que creaste.
     filter(diamantes, quilate > 3)
     ```
     
-3.  Presiona Alt + Shift + K. ¿QUé ocurrió? ¿Cómo puedes llegar al mismo lugar utilizando los menús?
+3.  Presiona Alt + Shift + K. ¿Qué ocurrió? ¿Cómo puedes llegar al mismo lugar utilizando los menús?
 
