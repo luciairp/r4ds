@@ -29,7 +29,7 @@ nombre_objeto <- valor
 
 Cuando leas esa línea de código di mentalmente "nombre_objeto recibe valor"  
 
-Escribirás montones de comandos de asignación y `<-` es incómodo de escribir. Que no te gane la pereza de usar `=`: sí, funcionará, pero provocará confusión después. En cambio, usa el atajo de teclado de RStudio Alt + - (signo menos). RStudio automágicamente rodeará `<-` con espacios, lo que es un buena costumbre para dar formato al código. El código puede ser horrible para leer incluso en un buen día, por lo que ayuda a tu vista usando espacios. 
+Harás una gran cantidad de asignaciones y `<-` es incómodo de escribir. Que no te gane la pereza de usar `=`: sí, funcionará, pero provocará confusión más adelante. En cambio, usa el atajo de teclado de RStudio Alt + - (signo menos). RStudio automágicamente rodeará `<-` con espacios, lo que es un buena costumbre para dar formato al código. El código puede ser horrible para leer incluso en un buen día, por lo que ayudará a tu vista usar espacios. 
 
 ## ¿Qué contiene un nombre?
 
